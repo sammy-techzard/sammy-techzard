@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammy-techzard&show_icons=true&locale=en" alt="sammy-techzard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-techzard&" alt="sammy-techzard" /></p>
